@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClient", "src\ApiClient\ApiClient.csproj", "{6A9E1369-106F-4C58-8AD6-A7181209F5E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "\src", "{881F9243-33CB-48C1-A528-73DC1D47709C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A9E1369-106F-4C58-8AD6-A7181209F5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9E1369-106F-4C58-8AD6-A7181209F5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9E1369-106F-4C58-8AD6-A7181209F5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9E1369-106F-4C58-8AD6-A7181209F5E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3972A303-B6BC-41A2-A5D1-BE9B3D39ECF0}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6A9E1369-106F-4C58-8AD6-A7181209F5E1} = {881F9243-33CB-48C1-A528-73DC1D47709C}
+	EndGlobalSection
+EndGlobal
